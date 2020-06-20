@@ -1,0 +1,23 @@
+.bgg {
+  width: 100%;
+  height: 100%;
+  fill: white;
+}
+
+.textt {
+  font-family: Fabrikat-Black;
+  font-size: 40;
+  fill: #333333;
+}
+
+.timee {
+  font-family: Fabrikat-Black;
+  font-size: 80;
+  fill: #333333;
+}
+
+.promptt {
+  font-family: Fabrikat-Black;
+  font-size: 40;
+  fill: #FFFFFF;
+}

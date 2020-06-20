@@ -1,0 +1,1 @@
+App to remind you how long it's been since you put in a tampon, and to remind you to remove it with prompts and by color-coding the screen. Sometimes we just forget we have one in! Let's keep that TSS risk at bay.

@@ -1,0 +1,6 @@
+<svg>
+  <rect id="bgg" width="100%" height="100%" x="0" y="0" />
+  <text id="textt" x="10" y="25%" class="textt">textthere</text>
+  <text id="timee" x="10" y="60%" class="timee">timeehere</text>
+  <text id="promptt" x="10" y="85%" class="promptt">promptthere</text>
+</svg>
